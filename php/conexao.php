@@ -11,7 +11,7 @@ function conectar(){
 	return $con;
 	
 }
-
+global $recebeIDcli;
 $conexao = conectar();
 
 

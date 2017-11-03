@@ -33,7 +33,7 @@ if($num_regs == 0){
 	
 	
 } else{
-	$mensagem = "O registro não será feito pois este contato já está cadastrado!!";
+	$mensagem = "O registro não será feito pois este CPF já está cadastrado!!";
 }
 
 $conexao->close();
